@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Virus_01" size="0.100000 0.091800" />
+    <ImageTarget name="virusImage" size="0.100000 0.056300" />
+    <ImageTarget name="a6c491120d505ad6e04c738e579fc7eb7c077ba3" size="0.100000 0.100000" />
+    <ImageTarget name="477859ba8629a816b7b707bdf10261f653d87dc5" size="0.100000 0.100000" />
+  </Tracking>
+</QCARConfig>
